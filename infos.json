@@ -151,10 +151,10 @@
             "telegram": "https://t.me/phhtreble"
         },
         "preferences": {
+            "key_misc_esco_transport_unit_size": "16",
             "key_samsung_double_tap_to_wake": true,
             "key_samsung_camera_ids": true,
-            "key_samsung_alternate_audio_policy": true,
-            "key_samsung_esco_transport_unit_size": "16"
+            "key_samsung_alternate_audio_policy": true
         }
     },
     {
@@ -211,11 +211,11 @@
             "key_misc_backlight_scale": "true",
             "key_misc_headset_devinput": "true",
             "key_misc_dynamic_sysbta": "true",
+            "key_misc_esco_transport_unit_size": "16",
             "key_samsung_double_tap_to_wake": "true",
             "key_samsung_camera_ids": "true",
             "key_samsung_extra_sensors": "true",
-            "key_samsung_high_brightness": "true",
-            "key_samsung_esco_transport_unit_size": "16"
+            "key_samsung_high_brightness": "true"
         }
     },
     {
@@ -699,8 +699,8 @@
         },
         "preferences": {
             "key_qualcomm_alternate_audiopolicy": true,
-            "key_samsung_esco_transport_unit_size": "16",
-            "key_misc_dynamic_sysbta": true
+            "key_misc_dynamic_sysbta": true,
+            "key_misc_esco_transport_unit_size": "16"
         }
     },
     {
@@ -715,8 +715,8 @@
             "telegram": "https://t.me/S20FeModding"
         },
         "preferences": {
-            "key_samsung_esco_transport_unit_size": "16",
             "key_misc_headset_devinput": true,
+            "key_misc_esco_transport_unit_size": "16",
             "key_samsung_extra_sensors": true,
             "key_samsung_camera_ids": true,
             "key_samsung_double_tap_to_wake": true
@@ -840,8 +840,8 @@
             "key_misc_backlight_scale": "true",
             "key_misc_headset_devinput": "true",
             "key_misc_dynamic_sysbta": "true",
+            "key_misc_esco_transport_unit_size": "16",
             "key_samsung_alternate_audio_policy": "true",
-            "key_samsung_esco_transport_unit_size": "16",
             "key_samsung_high_brightness": "true",
             "key_samsung_double_tap_to_wake": "true",
             "key_samsung_camera_ids": "true",
