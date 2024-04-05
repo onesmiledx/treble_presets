@@ -471,8 +471,42 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "HUAWEI/ANE-.*",
-        "device_name": "Huawei P20 Lite",
+        "match_value": "hi3660.*",
+        "device_name": "Huawei hi3660 (Honor 9)",
+        "maintainer": {
+            "name": "Iceows",
+            "telegram": "https://t.me/IceowsDev"
+        },
+        "community": {
+            "telegram": "https://t.me/leaos_group"
+        },
+        "preferences": {
+            "key_misc_esco_transport_unit_size": "16",
+            "key_misc_dynamic_sysbta": true,
+            "key_misc_bluetooth": "huawei"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "hi6250.*",
+        "device_name": "Huawei hi6250 (P20 Lite)",
+        "maintainer": {
+            "name": "Iceows",
+            "telegram": "https://t.me/IceowsDev"
+        },
+        "community": {
+            "telegram": "https://t.me/leaos_group"
+        },
+        "preferences": {
+            "key_misc_esco_transport_unit_size": "16",
+            "key_misc_dynamic_sysbta": true,
+            "key_misc_bluetooth": "huawei"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "kirin710.*",
+        "device_name": "Huawei Kirin 710 (P Smart 2019/2020)",
         "maintainer": {
             "name": "Iceows",
             "telegram": "https://t.me/IceowsDev"
