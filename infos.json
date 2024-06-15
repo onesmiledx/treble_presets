@@ -949,5 +949,26 @@
             "key_ims_request_network": "true",
             "key_ims_force_enable_setting": "true"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Redmi/lancelot.*|Redmi/galahad.*",
+        "device_name": "Redmi 9",
+
+        "maintainer": {
+            "name": "wildbeetle"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "xiaomi_double_tap_to_wake": true,
+            "key_misc_disable_audio_effects": true,
+            "key_misc_display_fps": "0",
+            "key_misc_mediatek_touch_hint_rotate": true,
+            "key_misc_mediatek_ged_kpi": true,
+            "key_misc_backlight_scale": true,
+            "key_misc_bluetooth": "mediatek"
+        }
     }
 ]
